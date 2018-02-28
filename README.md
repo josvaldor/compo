@@ -1,5 +1,5 @@
-# knmi
-Utility for calculating monthly temperature mean and anomaly from KNMI raw data 
+# COMPO
+Utility for formatting KNMI weather station data to use with the Terrance Compo wavetest.m Matlab program. 
 
 
 
